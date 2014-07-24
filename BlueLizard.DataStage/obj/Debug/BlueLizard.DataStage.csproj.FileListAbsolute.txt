@@ -1,0 +1,10 @@
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\BlueLizard.DataStage.dll.config
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\BlueLizard.DataStage.dll
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\BlueLizard.DataStage.pdb
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\EntityFramework.dll
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\EntityFramework.SqlServer.dll
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\EntityFramework.xml
+X:\src\BlueLizard\BlueLizard.DataStage\bin\Debug\EntityFramework.SqlServer.xml
+X:\src\BlueLizard\BlueLizard.DataStage\obj\Debug\BlueLizard.DataStage.csprojResolveAssemblyReference.cache
+X:\src\BlueLizard\BlueLizard.DataStage\obj\Debug\BlueLizard.DataStage.dll
+X:\src\BlueLizard\BlueLizard.DataStage\obj\Debug\BlueLizard.DataStage.pdb

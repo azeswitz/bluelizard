@@ -1,0 +1,36 @@
+2014-07-13 18:31:32,408 [11] DEBUG BlueLizard.Tests.Data.IoC [(null)] - Debug message
+2014-07-13 18:31:32,424 [11] INFO  BlueLizard.Tests.Data.IoC [(null)] - Info message
+2014-07-13 18:31:32,425 [11] WARN  BlueLizard.Tests.Data.IoC [(null)] - Warn message
+2014-07-13 18:31:32,426 [11] ERROR BlueLizard.Tests.Data.IoC [(null)] - Error message
+2014-07-13 18:31:32,427 [11] FATAL BlueLizard.Tests.Data.IoC [(null)] - Fatal message
+2014-07-13 18:31:32,447 [11] INFO  BlueLizard.Tests.Data.IoC [(null)] - ===========================================================================================================
+Configuration Sources:
+
+0)   Registry:  StructureMap.InitializationExpression, StructureMap, Version=2.6.4.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223
+1)   Registry:  StructureMap.Configuration.DSL.Registry, StructureMap, Version=2.6.4.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223
+2)   Registry:  StructureMap.Configuration.DSL.Registry, StructureMap, Version=2.6.4.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223
+
+
+====================================================================================================================================================================================================================================================================================================================================================================
+PluginType                                                          Name                                     Description                                                                                                                                                                                                                                            
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Func`1<TResult> (Func`1<TResult>)                                                                                                                                                                                                                                                                                                                                   
+Scoped as:  Transient
+
+                                                                    9ed75681-85dd-48fe-b209-92d030b002eb                                                                                                                                                                                                                                                            
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IContainer (StructureMap.IContainer)                                e8af31b1-e8a8-46f1-b1f9-381c4e497755     Object:  StructureMap.Container                                                                                                                                                                                                                        
+Scoped as:  Transient
+
+                                                                    e8af31b1-e8a8-46f1-b1f9-381c4e497755     Object:  StructureMap.Container                                                                                                                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DbContext (System.Data.Entity.DbContext)                            07cd4f08-333d-4fb2-81e1-ed0bc439af25     Configured Instance of BlueLizard.Data.Entities, BlueLizard.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null                                                                                                                                
+Scoped as:  Singleton
+
+                                                                    07cd4f08-333d-4fb2-81e1-ed0bc439af25     Configured Instance of BlueLizard.Data.Entities, BlueLizard.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null                                                                                                                                
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IGenericDataRepository`1<Demo> (IGenericDataRepository`1<Demo>)     2c39a07e-c878-4b0e-9cbe-29e2f1bd818b     Configured Instance of BlueLizard.Data.Repositories.GenericDataRepository`1[[BlueLizard.Domain.Demo, BlueLizard.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], BlueLizard.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Scoped as:  Transient
+
+                                                                    2c39a07e-c878-4b0e-9cbe-29e2f1bd818b     Configured Instance of BlueLizard.Data.Repositories.GenericDataRepository`1[[BlueLizard.Domain.Demo, BlueLizard.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], BlueLizard.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+====================================================================================================================================================================================================================================================================================================================================================================
