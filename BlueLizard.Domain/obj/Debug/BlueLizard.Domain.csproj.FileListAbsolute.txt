@@ -3,8 +3,8 @@ Z:\Data\src\BlueLizard\BlueLizard.Domain\bin\Debug\BlueLizard.Domain.pdb
 Z:\Data\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.dll
 Z:\Data\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.pdb
 Z:\Data\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.csprojResolveAssemblyReference.cache
-X:\src\BlueLizard\BlueLizard.Domain\bin\Debug\BlueLizard.Domain.dll
-X:\src\BlueLizard\BlueLizard.Domain\bin\Debug\BlueLizard.Domain.pdb
-X:\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.csprojResolveAssemblyReference.cache
-X:\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.dll
-X:\src\BlueLizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.pdb
+X:\src\bluelizard\BlueLizard.Domain\bin\Debug\BlueLizard.Domain.dll
+X:\src\bluelizard\BlueLizard.Domain\bin\Debug\BlueLizard.Domain.pdb
+X:\src\bluelizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.csprojResolveAssemblyReference.cache
+X:\src\bluelizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.dll
+X:\src\bluelizard\BlueLizard.Domain\obj\Debug\BlueLizard.Domain.pdb

@@ -12,7 +12,7 @@ using BlueLizard.Data.Interfaces;
 using System.Reflection;
 
 
-namespace BlueLizard.Business
+namespace BlueLizard.Site
 {
     public static class AutoMapperConfig
     {

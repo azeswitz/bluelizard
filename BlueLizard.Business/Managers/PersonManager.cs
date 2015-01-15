@@ -24,7 +24,6 @@ namespace BlueLizard.Business.Managers
         public PersonManager(IGenericDataRepository<Person> repo)
         {
             this._repo = repo;
-            AutoMapperConfig.Init();
         }
 
         //Return a list of objects.  Intentional return of IList vs. IQueryable to 
